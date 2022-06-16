@@ -1,0 +1,90 @@
+Xsession: X session started for venus at Thu Jun 16 02:41:06 PM EDT 2022
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/venus/.Xauthority
+localuser:venus being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=venus
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/venus
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=venus
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/venus/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/venus
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/venus
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 14:41:09.004: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:863): xfwm4-WARNING **: 14:41:10.552: Unsupported GL renderer (llvmpipe (LLVM 13.0.1, 256 bits)).
+
+(wrapper-2.0:902): Gtk-WARNING **: 14:41:18.499: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:912): WARNING **: 14:41:19.252: No outputs have backlight property
+
+(wrapper-2.0:911): GLib-GIO-CRITICAL **: 14:41:19.491: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:911): GLib-GIO-CRITICAL **: 14:41:19.493: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:911): GLib-GObject-WARNING **: 14:41:19.493: invalid (NULL) pointer instance
+
+(wrapper-2.0:911): GLib-GObject-CRITICAL **: 14:41:19.493: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:911): Gtk-WARNING **: 14:41:19.493: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:911): Gtk-WARNING **: 14:41:19.941: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:910): Gtk-WARNING **: 14:41:21.480: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:912): Gtk-WARNING **: 14:41:21.794: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+** (xfce4-power-manager:984): WARNING **: 14:41:22.676: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:984): WARNING **: 14:41:22.677: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+Another notification daemon is running, exiting
+
+(xfce4-power-manager:984): GLib-GObject-WARNING **: 14:41:25.313: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x55925e0830c0' of type 'GDBusProxy'
+
+(xfce4-power-manager:984): xfce4-power-manager-WARNING **: 14:41:29.133: could not map keysym 1008ffa8 to keycode
+
+
+** (xiccd:971): WARNING **: 14:41:29.297: EDID is empty
+
+** (xiccd:971): WARNING **: 14:41:29.314: EDID is empty
+
+** (xfce4-power-manager:984): WARNING **: 14:41:29.535: No outputs have backlight property
+
+** (xiccd:971): WARNING **: 14:41:29.538: EDID is empty
+
+** (xiccd:971): WARNING **: 14:41:29.538: EDID is empty
+
+(xfce4-power-manager:984): xfce4-power-manager-WARNING **: 14:41:29.632: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+blueman-applet 14.41.35 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 14.41.37 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 14.41.37 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None

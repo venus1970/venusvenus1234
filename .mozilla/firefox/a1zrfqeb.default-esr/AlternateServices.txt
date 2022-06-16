@@ -1,0 +1,1 @@
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	3	19155	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1657648225:h3:y:1654728310:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:

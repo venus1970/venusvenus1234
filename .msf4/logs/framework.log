@@ -1,0 +1,59 @@
+[06/10/2022 08:17:51] [d(0)] core: Created user based module store
+[06/10/2022 08:18:22] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 08:18:22] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 08:18:35] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[06/10/2022 08:18:37] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[06/10/2022 08:18:46] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[06/10/2022 08:35:02] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[06/10/2022 08:36:25] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 08:36:25] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 08:36:29] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[06/10/2022 08:36:31] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[06/10/2022 08:36:34] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[06/10/2022 12:11:54] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[06/10/2022 12:13:12] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 12:13:12] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 12:13:17] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[06/10/2022 12:13:19] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[06/10/2022 12:13:22] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_ssl is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_uuid is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_http is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_https is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module generic/custom is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module generic/shell_bind_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:34:38] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with unix/ftp/vsftpd_234_backdoor for PayloadType: limiter was cmd_interact
+[06/10/2022 12:43:39] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[06/10/2022 15:12:56] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 15:12:57] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 15:13:02] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[06/10/2022 15:13:04] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[06/10/2022 15:13:07] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[06/10/2022 15:52:20] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[06/10/2022 15:54:37] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 15:54:37] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[06/10/2022 15:54:42] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[06/10/2022 15:54:43] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[06/10/2022 15:54:46] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[06/12/2022 07:39:50] [i(0)] core: Trying to continue despite failed database creation: connection to server at "::1", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+[06/12/2022 07:39:50] [e(0)] core: DB.connect threw an exception - ActiveRecord::ConnectionNotEstablished connection to server at "::1", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+[06/12/2022 07:39:50] [e(0)] core: Failed to connect to the database: connection to server at "::1", port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+[06/12/2022 07:39:59] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[06/12/2022 07:39:59] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[06/12/2022 07:40:03] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[06/12/2022 07:40:05] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[06/12/2022 07:40:08] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[06/12/2022 13:08:13] [d(0)] core: HistoryManager.pop_context name: :msfconsole

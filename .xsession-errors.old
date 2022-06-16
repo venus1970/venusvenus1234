@@ -1,0 +1,176 @@
+Xsession: X session started for venus at Sun Jun 12 07:29:06 AM EDT 2022
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/venus/.Xauthority
+localuser:venus being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=venus
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/venus
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=venus
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/venus/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/venus
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/venus
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 07:29:09.345: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:869): xfwm4-WARNING **: 07:29:10.575: Unsupported GL renderer (llvmpipe (LLVM 13.0.1, 256 bits)).
+
+(wrapper-2.0:910): Gtk-WARNING **: 07:29:15.008: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:917): GLib-GIO-CRITICAL **: 07:29:16.175: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:917): GLib-GIO-CRITICAL **: 07:29:16.208: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:917): GLib-GObject-WARNING **: 07:29:16.208: invalid (NULL) pointer instance
+
+(wrapper-2.0:917): GLib-GObject-CRITICAL **: 07:29:16.208: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:917): Gtk-WARNING **: 07:29:16.208: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+** (wrapper-2.0:918): WARNING **: 07:29:16.269: No outputs have backlight property
+
+(wrapper-2.0:917): Gtk-WARNING **: 07:29:16.867: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (xfce4-power-manager:951): WARNING **: 07:29:17.015: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:951): WARNING **: 07:29:17.016: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(wrapper-2.0:916): Gtk-WARNING **: 07:29:17.709: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(xfce4-power-manager:951): GLib-GObject-WARNING **: 07:29:17.760: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x5629427350c0' of type 'GDBusProxy'
+
+(wrapper-2.0:918): Gtk-WARNING **: 07:29:17.958: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+(xfce4-power-manager:951): xfce4-power-manager-WARNING **: 07:29:18.975: could not map keysym 1008ffa8 to keycode
+
+
+** (xiccd:942): WARNING **: 07:29:19.215: EDID is empty
+
+** (xiccd:942): WARNING **: 07:29:19.218: EDID is empty
+
+** (xfce4-power-manager:951): WARNING **: 07:29:19.491: No outputs have backlight property
+
+(xfce4-power-manager:951): xfce4-power-manager-WARNING **: 07:29:19.529: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+blueman-applet 07.29.24 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 07.29.25 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 07.29.25 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+
+** (xiccd:942): WARNING **: 13:09:11.278: EDID is empty
+
+** (xiccd:942): WARNING **: 13:09:11.290: EDID is empty
+
+** (xiccd:942): WARNING **: 13:10:43.639: EDID is empty
+
+** (xiccd:942): WARNING **: 13:10:43.642: EDID is empty
+
+** (xiccd:942): WARNING **: 13:10:43.671: EDID is empty
+
+** (xiccd:942): WARNING **: 13:10:43.671: EDID is empty
+
+** (xiccd:942): WARNING **: 13:10:46.910: EDID is empty
+
+** (xiccd:942): WARNING **: 13:10:46.910: EDID is empty
+
+** (xiccd:942): WARNING **: 13:10:46.941: EDID is empty
+
+** (xiccd:942): WARNING **: 13:10:46.942: EDID is empty
+
+** (xiccd:942): WARNING **: 13:11:02.831: EDID is empty
+
+** (xiccd:942): WARNING **: 13:11:02.831: EDID is empty
+
+** (xiccd:942): WARNING **: 13:11:02.861: EDID is empty
+
+** (xiccd:942): WARNING **: 13:11:02.861: EDID is empty
+
+** (xiccd:942): WARNING **: 13:11:05.289: EDID is empty
+
+** (xiccd:942): WARNING **: 13:11:05.302: EDID is empty
+
+** (xiccd:942): WARNING **: 13:11:05.324: EDID is empty
+
+** (xiccd:942): WARNING **: 13:11:05.325: EDID is empty
+
+** (xiccd:942): WARNING **: 13:19:01.688: EDID is empty
+
+** (xiccd:942): WARNING **: 13:19:01.689: EDID is empty
+
+** (xiccd:942): WARNING **: 13:19:01.704: EDID is empty
+
+** (xiccd:942): WARNING **: 13:19:01.704: EDID is empty
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+virtual KPtyProcess::~KPtyProcess() process didn't stop upon SIGHUP and will be SIGKILL-ed
+QProcess: Destroyed while process ("/usr/bin/zsh") is still running.
+
+** (xiccd:942): WARNING **: 11:56:16.030: EDID is empty
+
+** (xiccd:942): WARNING **: 11:56:16.053: EDID is empty
+
+** (xiccd:942): WARNING **: 12:01:04.836: EDID is empty
+
+** (xiccd:942): WARNING **: 12:01:04.837: EDID is empty
+
+** (xiccd:942): WARNING **: 12:01:04.994: EDID is empty
+
+** (xiccd:942): WARNING **: 12:01:05.000: EDID is empty
+
+** (xiccd:942): WARNING **: 12:08:48.394: EDID is empty
+
+** (xiccd:942): WARNING **: 12:08:49.675: EDID is empty
+
+** (xiccd:942): WARNING **: 12:08:50.287: EDID is empty
+
+** (xiccd:942): WARNING **: 12:08:50.288: EDID is empty
+
+** (xiccd:942): WARNING **: 12:08:50.949: EDID is empty
+
+** (xiccd:942): WARNING **: 12:08:51.094: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:11.219: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:11.264: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:11.281: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:11.281: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:18.650: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:18.650: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:19.286: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:19.287: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:19.400: EDID is empty
+
+** (xiccd:942): WARNING **: 12:10:19.400: EDID is empty
